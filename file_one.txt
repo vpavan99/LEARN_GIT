@@ -1,0 +1,54 @@
+learn git from sratch 
+
+C:\Users\pavan\OneDrive\Desktop\GIT_learn>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+
+git init 
+Initialized empty Git repository in C:/Users/pavan/OneDrive/Desktop/GIT_learn/.git/
+
+
+git status
+On branch master
+No commits yet
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file_one.txt
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+first check  git status on CMD after creating folder file_one.txt 
+we will get fatal error: not a git repository 
+
+so  how to make it repository ?
+ run git init 
+
+it will Initialize empty git repository in the path C:/Users/pavan/OneDrive/Desktop/GIT_learn/.git/
+
+
+
+After check again the status 
+it will show as follow
+On branch master
+No commits yet
+ntracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file_one.txt
+nothing added to commit but untracked files present (use "git add" to track)
+
+so it is asking to Commit means asking to add to staging area 
+
+we can directly commit using Commit option or use CMD git add <file_name> (it will not show any thing) 
+
+
+
+
+
+
+
+
+  
+
+
+
+
