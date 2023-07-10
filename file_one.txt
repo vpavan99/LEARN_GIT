@@ -40,6 +40,25 @@ so it is asking to Commit means asking to add to staging area
 
 we can directly commit using Commit option or use CMD git add <file_name> (it will not show any thing) 
 
+Again check the status Add status 
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file_one.txt
+
+
+ now need use command  git commit -m "added first file" 
+  C:\Users\pavan\OneDrive\Desktop\GIT_learn>git commit -m "added first file" 
+  [master (root-commit) 3e40a00] added first file
+ 1 file changed, 54 insertions(+)
+ create mode 100644 file_one.txt
+
+ 
+
+
 
 
 
