@@ -45,7 +45,7 @@ On branch master
 
 No commits yet
 
-Changes to be committed:
+Changes to be committe                                                                                                                      d:
   (use "git rm --cached <file>..." to unstage)
         new file:   file_one.txt
 
@@ -56,7 +56,13 @@ Changes to be committed:
  1 file changed, 54 insertions(+)
  create mode 100644 file_one.txt
 
- 
+ check status again
+ On branch master
+nothing to commit, working tree clean
+
+
+
+
 
 
 
